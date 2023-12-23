@@ -1,4 +1,5 @@
 # Distributed System Lab Programs
+[Lab Manula](./DIS Lab Manual 2020-21.pdf)
 
 1. Implementation FTP : Java
    - [client](./FTPClient.java)
